@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 In the Mood.mp3";		
+f[2]	= "02 Stardust.mp3";		
+f[3]	= "03 My Blue Heaven.mp3";		
+f[4]	= "04 By the Light of the Silvery Moon.mp3";		
+f[5]	= "05 I'm Getting Sentimental Over You.mp3";		
+f[6]	= "06 By the Light of the Silvery Moon.mp3";		
+f[7]	= "07 Perdido.mp3";		
+f[8]	= "08 I Can't Believe The You're in Love With Me.mp3";		
+f[9]	= "09 These Foolish Things.mp3";		
+f[10]	= "10 I'll Be Seeing You.mp3";		
+f[11]	= "11 Easy Street.mp3";		
+f[12]	= "12 A-Tisket, A Tisket.mp3";		
+f[13]	= "13 Minnie the Moocher.mp3";		
+f[14]	= "14 Sentimental Journey.mp3";		
+f[15]	= "15 Auld Lang Syne.mp3";		
